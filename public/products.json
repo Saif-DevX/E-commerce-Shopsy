@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Casual Hoodie",
+    "category": "Men",
+    "price": "$45.99",
+    "rating": 4.5,
+    "image": "https://images.pexels.com/photos/7679462/pexels-photo-7679462.jpeg"
+  },
+  {
+    "id": 2,
+    "name": "Elegant Dress",
+    "category": "Women",
+    "price": "$59.99",
+    "rating": 4.8,
+    "image": "https://images.pexels.com/photos/14884681/pexels-photo-14884681.jpeg"
+  },
+  {
+    "id": 3,
+    "name": "Leather Handbag",
+    "category": "Accessories",
+    "price": "$85.00",
+    "rating": 4.6,
+    "image": "https://images.pexels.com/photos/14884684/pexels-photo-14884684.jpeg"
+  },
+  {
+    "id": 4,
+    "name": "Formal Blazer",
+    "category": "Men",
+    "price": "$120.00",
+    "rating": 4.7,
+    "image": "https://images.pexels.com/photos/1895015/pexels-photo-1895015.jpeg"
+  },
+  {
+    "id": 5,
+    "name": "Trendy Sunglasses",
+    "category": "Accessories",
+    "price": "$25.99",
+    "rating": 4.4,
+    "image": "https://images.pexels.com/photos/3760858/pexels-photo-3760858.jpeg"
+  },
+  {
+    "id": 6,
+    "name": "Maxi Dress",
+    "category": "Women",
+    "price": "$65.00",
+    "rating": 4.9,
+    "image": "https://media.istockphoto.com/id/2216256270/photo/young-woman-in-green-and-blue-floral-maxi-dress-with-plunging-neckline-and-bell-sleeves-long.webp?a=1&b=1&s=612x612&w=0&k=20&c=aISxS2KmmkZcbp6mA-JDGlMJQgGjW3JQj8eFWYlH1-o="
+  }
+]
